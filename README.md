@@ -24,6 +24,8 @@ In order to run the tests for the modules please run the file **test.py** in the
 The news data in the program is from newsapi.org, the weather data is from openweathermap.org and the
 Covid-19 data is from Public Health England. The HTML file index.html was provided by the university.
 
+The handle for this project is: https://github.com/JasmineSThompson/covid-alert-tracker.git
+
 Author of the Python code: Jasmine S. Thompson
 
 Date: 04/12/2020
